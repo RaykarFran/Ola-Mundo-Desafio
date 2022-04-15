@@ -1,1 +1,2 @@
-# OlaMundo Desafio Git/GitHub
+# Ola-Mundo-Desafio
+Desafio Git/GitHub
